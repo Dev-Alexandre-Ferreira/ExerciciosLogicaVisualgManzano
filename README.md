@@ -1,4 +1,4 @@
-## Lógica de programação em visualG exercicios Manzanno
+## Lógica de programação com visualG exercicios Manzanno
 
 <p> Todos os exercicios da pasta foram feitos do livro de Algoritmos da manzanno 2000 </p>
 <br>
